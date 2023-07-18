@@ -1,0 +1,17 @@
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\bin\Debug\net6.0\KitapBul.DataAccess.deps.json
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\bin\Debug\net6.0\KitapBul.DataAccess.runtimeconfig.json
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\bin\Debug\net6.0\KitapBul.DataAccess.dll
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\bin\Debug\net6.0\KitapBul.DataAccess.pdb
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\bin\Debug\net6.0\KitapBul.Entities.dll
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\bin\Debug\net6.0\KitapBul.Entities.pdb
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\obj\Debug\net6.0\KitapBul.DataAccess.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\obj\Debug\net6.0\KitapBul.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\obj\Debug\net6.0\KitapBul.DataAccess.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\obj\Debug\net6.0\KitapBul.DataAccess.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\obj\Debug\net6.0\KitapBul.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\obj\Debug\net6.0\KitapBul.DataAccess.csproj.CopyComplete
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\obj\Debug\net6.0\KitapBul.DataAccess.dll
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\obj\Debug\net6.0\refint\KitapBul.DataAccess.dll
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\obj\Debug\net6.0\KitapBul.DataAccess.pdb
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\obj\Debug\net6.0\KitapBul.DataAccess.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.DataAccess\obj\Debug\net6.0\ref\KitapBul.DataAccess.dll

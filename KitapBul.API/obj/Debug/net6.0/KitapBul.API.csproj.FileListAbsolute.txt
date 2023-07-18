@@ -1,0 +1,8 @@
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.API\obj\Debug\net6.0\KitapBul.API.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.API\obj\Debug\net6.0\KitapBul.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.API\obj\Debug\net6.0\KitapBul.API.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.API\obj\Debug\net6.0\KitapBul.API.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.API\obj\Debug\net6.0\KitapBul.API.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.API\obj\Debug\net6.0\KitapBul.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.API\obj\Debug\net6.0\KitapBul.API.RazorAssemblyInfo.cache
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.API\obj\Debug\net6.0\KitapBul.API.RazorAssemblyInfo.cs

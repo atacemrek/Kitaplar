@@ -1,0 +1,5 @@
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.Business\obj\Debug\net6.0\KitapBul.Business.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.Business\obj\Debug\net6.0\KitapBul.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.Business\obj\Debug\net6.0\KitapBul.Business.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.Business\obj\Debug\net6.0\KitapBul.Business.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Kitaplar\KitapBul.Business\obj\Debug\net6.0\KitapBul.Business.csproj.CoreCompileInputs.cache
